@@ -1,5 +1,7 @@
 # DIKWP SemanticEnergy OS
 
+Created by Yucong Duan (段玉聪).
+
 Open-source AI semantic value, cost, carbon, and purpose-governance monitor.
 
 DIKWP SemanticEnergy OS helps teams answer a hard question:
@@ -54,12 +56,12 @@ dikwp-semanticenergy static-audit src --out outputs/demo/static_boundary_audit_r
 
 ## Key metrics
 
-- **Purpose Coupling**: whether the output is aligned with P-layer goal, value, constraints, time horizon, and feedback.
-- **Evidence Support**: whether claims have sources or evidence custody.
-- **Redundancy Score**: whether prompts and outputs are bloated or repetitive.
-- **Unsupported Claim Risk**: unsupported certainty, guarantees, best/only claims, or claim-like statements without evidence.
-- **Semantic Energy Score**: semantic value adjusted by estimated energy burden.
-- **Waste Index**: 1 - weighted semantic-energy score.
+- Purpose Coupling: whether the output is aligned with P-layer goal, value, constraints, time horizon, and feedback.
+- Evidence Support: whether claims have sources or evidence custody.
+- Redundancy Score: whether prompts and outputs are bloated or repetitive.
+- Unsupported Claim Risk: unsupported certainty, guarantees, best/only claims, or claim-like statements without evidence.
+- Semantic Energy Score: semantic value adjusted by estimated energy burden.
+- Waste Index: 1 - weighted semantic-energy score.
 
 ## Boundary
 
